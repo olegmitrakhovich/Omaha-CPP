@@ -1,0 +1,16 @@
+﻿  Omaha.cpp
+c:\users\oleg\source\repos\omaha\omaha\omaha.cpp(141): warning C4018: '<': signed/unsigned mismatch
+c:\users\oleg\source\repos\omaha\omaha\omaha.cpp(144): warning C4018: '<': signed/unsigned mismatch
+c:\users\oleg\source\repos\omaha\omaha\omaha.cpp(147): warning C4018: '<': signed/unsigned mismatch
+c:\users\oleg\source\repos\omaha\omaha\omaha.cpp(169): warning C4018: '<': signed/unsigned mismatch
+c:\users\oleg\source\repos\omaha\omaha\omaha.cpp(174): warning C4018: '<': signed/unsigned mismatch
+c:\users\oleg\source\repos\omaha\omaha\omaha.cpp(177): warning C4018: '<': signed/unsigned mismatch
+c:\users\oleg\source\repos\omaha\omaha\omaha.cpp(532): warning C4018: '<': signed/unsigned mismatch
+c:\users\oleg\source\repos\omaha\omaha\omaha.cpp(536): warning C4018: '<': signed/unsigned mismatch
+c:\users\oleg\source\repos\omaha\omaha\omaha.cpp(550): warning C4018: '<': signed/unsigned mismatch
+c:\users\oleg\source\repos\omaha\omaha\omaha.cpp(554): warning C4018: '<': signed/unsigned mismatch
+c:\users\oleg\source\repos\omaha\omaha\omaha.cpp(578): warning C4018: '<': signed/unsigned mismatch
+c:\users\oleg\source\repos\omaha\omaha\omaha.cpp(582): warning C4018: '<': signed/unsigned mismatch
+c:\users\oleg\source\repos\omaha\omaha\omaha.cpp(306): warning C4715: 'calcScore': not all control paths return a value
+c:\users\oleg\source\repos\omaha\omaha\omaha.cpp(356): warning C4715: 'calcRank': not all control paths return a value
+  Omaha.vcxproj -> C:\Users\Oleg\source\repos\Omaha\Debug\Omaha.exe
